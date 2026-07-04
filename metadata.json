@@ -1,0 +1,6 @@
+{
+  "name": "SmartBook AI Hub",
+  "description": "An AI-powered multilingual learning platform featuring interactive electronic books, video lectures, a real-time Gemini AI Tutor, voice controls, simulated Telebirr checkout, and an admin management panel.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
